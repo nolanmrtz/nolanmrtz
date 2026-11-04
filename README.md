@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3987e5&height=220&section=header&text=Nolan%20Moritz&fontColor=f0efec&fontSize=64&fontAlignY=36&animation=fadeIn&desc=Epitech%20%C2%B7%20Dev%20web%20%C2%B7%20Game%20dev&descAlignY=58&descSize=20" alt="Nolan Moritz" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3987E5&center=true&vCenter=true&width=620&lines=Salut+%F0%9F%91%8B+moi+c'est+Nolan;%C3%89tudiant+%C3%A0+Epitech+%F0%9F%8E%93;Dev+web+freelance+avec+Frontcraft+%F0%9F%9A%80;Je+code+en+C%2C+Python%2C+Swift+et+Luau+%E2%9A%A1" alt="Salut, moi c'est Nolan : étudiant à Epitech et dev web freelance"/>
+  <img src="./banner.svg" alt="Nolan Moritz : étudiant à Epitech, dev web et game dev" width="100%"/>
 </p>
 
 <p align="center">
