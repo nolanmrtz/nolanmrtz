@@ -40,4 +40,4 @@
 
 #### Contact
 
-[Me contacter](https://www.frontcraft.fr/fr/contact/) via Frontcraft · [frontcraft.fr](https://www.frontcraft.fr)
+**[nolan.moritz@epitech.eu](mailto:nolan.moritz@epitech.eu)** · [frontcraft.fr](https://www.frontcraft.fr)
