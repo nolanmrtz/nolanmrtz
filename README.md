@@ -57,11 +57,11 @@ int main(void)
 ## 📈 Mon activité
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nolanmrtz&color=3987e5&style=flat-square&label=visites" alt="Compteur de visites"/>
+  <img src="https://komarev.com/ghpvc/?username=nolanmrtz&color=d98b4a&style=flat-square&label=visites" alt="Compteur de visites"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nolanmrtz&theme=tokyonight&hide_border=true&background=0D1117&ring=3987E5&fire=3987E5&currStreakLabel=3987E5" alt="Série de contributions GitHub" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=nolanmrtz&theme=tokyonight&hide_border=true&background=0F0D0B&ring=D98B4A&fire=D98B4A&currStreakLabel=D98B4A" alt="Série de contributions GitHub" height="170"/>
 </p>
 
 <p align="center">
@@ -72,5 +72,5 @@ int main(void)
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3987e5&height=120&section=footer" alt="" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0d0b,100:d98b4a&height=120&section=footer" alt="" width="100%"/>
 </p>
