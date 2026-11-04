@@ -28,49 +28,16 @@
 
 <sub>Le code des projets Epitech et des sites clients reste privé.</sub>
 
-## 🧑‍💻 Qui suis-je ?
+#### Stack
 
-```c
-#include "life.h"
+| Domaine | Ce que j'utilise |
+|---|---|
+| **Langages** | C · Python · JavaScript · Swift · Luau |
+| **Web** | HTML · CSS · JavaScript · Figma |
+| **Jeux** | CSFML · Roblox Studio |
+| **Outils** | Git · GitHub · VS Code · Make · Linux · macOS |
+| **En apprentissage** | Cybersécurité · IA |
 
-int main(void)
-{
-    profile_t nolan = {
-        .ecole     = "Epitech (PGE, 1re année)",
-        .boulot    = "Dev web freelance @ Frontcraft",
-        .langages  = {"C", "Python", "Swift", "JavaScript", "Luau"},
-        .apprend   = "tout, tout le temps",
-    };
+#### Contact
 
-    while (cafe_restant())
-        construire(nolan, un_truc_qui_dechire());
-    return 0;
-}
-```
-
-## 🛠️ Ma stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,swift,html,css,js,lua,git,github,linux,apple,vscode,figma&perline=7" alt="C, Python, Swift, HTML, CSS, JavaScript, Lua, Git, GitHub, Linux, macOS, VS Code, Figma"/>
-</p>
-
-## 📈 Mon activité
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nolanmrtz&color=d98b4a&style=flat-square&label=visites" alt="Compteur de visites"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nolanmrtz&theme=tokyonight&hide_border=true&background=0F0D0B&ring=D98B4A&fire=D98B4A&currStreakLabel=D98B4A" alt="Série de contributions GitHub" height="170"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nolanmrtz/nolanmrtz/output/github-snake-dark.svg">
-    <img alt="Un serpent qui mange mes contributions" src="https://raw.githubusercontent.com/nolanmrtz/nolanmrtz/output/github-snake.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0d0b,100:d98b4a&height=120&section=footer" alt="" width="100%"/>
-</p>
+[Me contacter](https://www.frontcraft.fr/fr/contact/) via Frontcraft · [frontcraft.fr](https://www.frontcraft.fr)
