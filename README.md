@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./banner.svg" alt="Nolan Moritz : étudiant à Epitech, dev web et game dev" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png"/>
+    <img src="./assets/banner-light.png" alt="Nolan Moritz : étudiant à Epitech et fondateur de Frontcraft. Dev web, game dev, cyber et IA." width="100%"/>
+  </picture>
 </p>
 
 <p align="center">
